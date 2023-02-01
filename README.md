@@ -1,11 +1,11 @@
 # Churn-Prediction
-#Install dependencies and setup
-##import pandas
-##import matplotlib
-##import seaborn
+# Install dependencies and setup
+## import pandas
+## import matplotlib
+## import seaborn
 
-#Platform
-##Jupyter Notebook
+# Platform
+## Jupyter Notebook
 
-#Dataset
-##https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+# Dataset
+## https://www.kaggle.com/datasets/blastchar/telco-customer-churn
